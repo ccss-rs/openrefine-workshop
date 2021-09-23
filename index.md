@@ -5,7 +5,7 @@ OpenRefine is a powerful free and open source tool for working with messy data: 
 For this lesson you will need the following:
 - [OpenRefine](https://openrefine.org/). Detailed instructions for Windows and Mac are available: https://datacarpentry.org/openrefine-socialsci/setup.html 
   - If after installation and running OpenRefine, it does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.
-- Any web browser
+- Any web browser (Works best on Google Chrome, Opera, Microsoft Edge. Some known issues in Firefox)
 - Our common dataset: https://figshare.com/ndownloader/files/30848404 The data are a simplified version of a teaching dataset from the Studying African Farm-Led Irrigation (SAFI) database.
 
 ### Documents
