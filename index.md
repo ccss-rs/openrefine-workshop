@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# CCSS OpenRefine Workshop
 
-You can use the [editor on GitHub](https://github.com/ccss-rs/openrefine-workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A part of the data workflow is preparing the data for analysis. Some of this
+involves data cleaning, where errors in the data are identifed and corrected or
+formatting made consistent. This step must be taken with the same care and
+attention to reproducibility as the analysis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OpenRefine (formerly Google Refine) is a powerful free and open source tool for
+working with messy data: cleaning it and transforming it from one format into
+another.
 
-### Markdown
+This lesson will teach you to use OpenRefine to effectively clean and format
+data and automatically track any changes that you make. Many people comment
+that this tool saves them literally months of work trying to make these
+edits by hand.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccss-rs/openrefine-workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Credits
+Parts of this workshop are adapted from The Carpentries' "OpenRefine for Social Science Data" workshop (https://datacarpentry.org/openrefine-socialsci/)
