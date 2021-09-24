@@ -1,12 +1,12 @@
 # CCSS OpenRefine Workshop
-OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work.
+OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This workshop will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them  months of work.
 
 ## Setup
 For this lesson you will need the following:
-- [OpenRefine](https://openrefine.org/). Detailed instructions for Windows and Mac are available: https://datacarpentry.org/openrefine-socialsci/setup.html 
-  - If after installation and running OpenRefine, it does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.
+- [OpenRefine](https://openrefine.org/). Detailed instructions for Windows and Mac are available: [https://datacarpentry.org/openrefine-socialsci/setup.html](https://datacarpentry.org/openrefine-socialsci/setup.html)
+  - If after installation and running OpenRefine, it does not automatically open for you, point your browser at [http://127.0.0.1:3333/](http://127.0.0.1:3333/) or [http://localhost:3333](http://localhost:3333) to launch the program.
 - Any web browser (Works best on Google Chrome, Opera, Microsoft Edge. Some known issues in Firefox)
-- Our common dataset: https://figshare.com/ndownloader/files/30848404 The data are a simplified version of a teaching dataset from the Studying African Farm-Led Irrigation (SAFI) database.
+- Our common dataset: [https://figshare.com/ndownloader/files/30848404](https://figshare.com/ndownloader/files/30848404) The data are a simplified version of a teaching dataset from the Studying African Farm-Led Irrigation (SAFI) database.
 
 ### Documents
 We will also use the following documents:
